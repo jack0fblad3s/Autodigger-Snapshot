@@ -1,0 +1,15 @@
+# Unity auto-generated folders (shouldn't exist in snapshot, but just in case)
+Library/
+Temp/
+Logs/
+Obj/
+Build/
+UserSettings/
+.vs/
+
+# IDE/OS
+*.csproj
+*.sln
+*.tmp
+*.user
+.DS_Store
